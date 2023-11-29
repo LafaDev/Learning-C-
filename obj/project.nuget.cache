@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYe0nJKLsqGWkrA93ixEK32ReJbGG6bNDcwjFJRQRbEr/Bn/YM/jO8wAssQqlh9bS3Ms73walgf+mHJrKC8lgA==",
+  "success": true,
+  "projectFilePath": "/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/CS_Basics.csproj",
+  "expectedPackageFiles": [
+    "/home/malacoda/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

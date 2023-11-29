@@ -1,0 +1,15 @@
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/CS_Basics
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/CS_Basics.deps.json
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/CS_Basics.runtimeconfig.json
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/CS_Basics.dll
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/ref/CS_Basics.dll
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/bin/Debug/net6.0/CS_Basics.pdb
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.csproj.AssemblyReference.cache
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.AssemblyInfoInputs.cache
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.AssemblyInfo.cs
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.csproj.CoreCompileInputs.cache
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.dll
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/ref/CS_Basics.dll
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.pdb
+/home/malacoda/hiperion/codeMoon/dullahan/CS_Basics/obj/Debug/net6.0/CS_Basics.genruntimeconfig.cache
